@@ -2,7 +2,13 @@
 <h3 align="center">Senior PHP / Symfony Engineer</h3>
 
 <p align="center">
-Software engineer.
+I'm a Senior web Developer with a strong focus on API integrations, high quality backend architecture, and modern web technologies. Over the past years, I've contributed to B2B and B2C platforms, primarily using PHP (Symfony, OXID), and have taken ownership of full development lifecycles — from stakeholder discussions to delivery and deployment.
+My core backend expertise includes building robust REST APIs using Symfony and API Platform, integrating with third-party systems, and optimizing database performance (MySQL, query tuning, indexing).Designing AI-driven services and applications using prompt engineering.
+On the frontend, I enjoy building clean and responsive user interfaces using React, SCSS, and Tailwind CSS. I'm comfortable working across the stack and bridging the gap between backend and frontend teams to deliver seamless user experiences. I'm also experienced in:
+•	CI/CD with GitHub Actions, Jenkins
+•	Docker and Kubernetes
+•	Agile environments with code reviews, quality code, pair programming, and SOLID principles
+
 </p>
 
 ---
