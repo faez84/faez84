@@ -47,7 +47,7 @@ On the frontend, I enjoy building clean and responsive user interfaces using Rea
 </p>
 <p align="left">
   <a href="https://www.hackerrank.com/profile/faez_sal" target="_blank">
-    <img alt="HackerRank Home" fetchpriority="high" width="128.5" height="14" decoding="async" data-nimg="1" style="color:transparent" src="https://hrcdn.net/hrc/_next/static/next_assets/brand/logo-light.svg">
+    [<img alt="HackerRank Home" fetchpriority="high" width="128.5" height="14" decoding="async" data-nimg="1" style="color:transparent" src="https://hrcdn.net/hrc/_next/static/next_assets/brand/logo-light.svg">](https://cdn.brandfetch.io/id7deEe4pT/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B)
   </a>
 </p>
 
