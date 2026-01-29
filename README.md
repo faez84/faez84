@@ -23,19 +23,10 @@ On the frontend, I enjoy building clean and responsive user interfaces using Rea
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,symfony,mysql,redis,elasticsearch,docker,aws,git,linux" />
+  <img src="https://skillicons.dev/icons?i=php,symfony,mysql,redis,docker,git,linux" />
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faez84&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faez84&layout=compact" />
-</p>
 
 ---
 
