@@ -30,11 +30,11 @@ On the frontend, I enjoy building clean and responsive user interfaces using Rea
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faez84&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faez84&layout=compact" />
 </p>
 
 ---
