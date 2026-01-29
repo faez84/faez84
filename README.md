@@ -45,3 +45,9 @@ On the frontend, I enjoy building clean and responsive user interfaces using Rea
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+<p align="left">
+  <a href="https://www.hackerrank.com/profile/faez_sal" target="_blank">
+    <img src="https://skillicons.dev/icons?i=hackerrank" />
+  </a>
+</p>
+
